@@ -9,7 +9,7 @@ import App from './components/App';
 // STYLES
 
 import 'normalize.css';
-import './styles/app.scss';
+import './styles/app.css';
 
 
 ReactDOM.render(<App />, document.getElementById('app'));
